@@ -1,0 +1,91 @@
+body{
+ 
+ 
+}
+
+.logo {
+  border-top: 4px solid #648880;
+  float: left;
+  font-size: 48px;
+  font-weight: 100;
+  letter-spacing: .5px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+  text-transform: uppercase;
+}
+/*
+  ========================================
+  Typography
+  ========================================
+  */
+
+  h1, h2, h3, h4 {
+    color: #648880;
+  }
+  h1, h3, h4, h5, p {
+    margin-bottom: 22px;
+  }
+  h1 {
+    font-size: 36px;
+    line-height: 44px;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 44px;
+  }
+  h3 {
+    font-size: 21px;
+  }
+  h4 {
+    font-size: 18px;
+  }
+  h5 {
+    color: #a9b2b9;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  strong {
+    font-weight: 400;
+  }
+  cite,
+  em {
+    font-style: italic;
+  }
+  
+  .hero{
+   background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+   font-size: 21px;
+   line-height: 33px;
+   text-align: center;
+ }
+ article{
+   background-color :#fff;
+   margin-bottom: 10px;
+   margin-top: -50px;
+ }
+ .footer{
+   position: fixed;
+   height: -50px;
+   bottom: 0;
+   width: 100%;
+   padding-top: 20px;
+ }
+ .description {
+  margin-left: 10px;
+
+}
+.speaker-info {
+  border: 1px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 60px;
+  padding: 22px 0;
+  text-align: center;
+}
+#burb_logo{
+  background:url(../images/logo.png);
+  width:210px;
+  height: 101px;
+  text-indent:-99999999px;
+}
