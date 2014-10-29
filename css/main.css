@@ -1,6 +1,8 @@
 body{
- 
- 
+
+  background-image: url(../images/scribble_light.png);
+  background-position: inherit inherit;
+  background-repeat: repeat repeat
 }
 
 .logo {
@@ -23,7 +25,8 @@ body{
     color: #648880;
   }
   h1, h3, h4, h5, p {
-    margin-bottom: 22px;
+    margin-bottom: 16px;
+   
   }
   h1 {
     font-size: 36px;
@@ -53,7 +56,13 @@ body{
   em {
     font-style: italic;
   }
-  
+  a:hover {
+   
+  background: #ffea00;
+  }
+  a {
+    color: #648880;
+  }
   .hero{
    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
    font-size: 21px;
@@ -65,12 +74,12 @@ body{
    margin-bottom: 10px;
    margin-top: -50px;
  }
- .footer{
+ footer{
    position: fixed;
-   height: -50px;
    bottom: 0;
    width: 100%;
-   padding-top: 20px;
+   margin-top: 50px;
+   
  }
  .description {
   margin-left: 10px;
@@ -88,4 +97,17 @@ body{
   width:210px;
   height: 101px;
   text-indent:-99999999px;
+  margin-left: 5px;
+}
+#footer_background{
+  background: #2f2f2f;
+}
+#footer_background p{
+  color: white;
+}
+.center{
+  text-align: center;
+}
+#contact_form{
+margin-left: 289px;
 }
