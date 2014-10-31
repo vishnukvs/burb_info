@@ -1,5 +1,3 @@
-
-
 $("#contact_form").submit(function(e)
 {
 	var postData = $(this).serializeArray();
@@ -18,11 +16,12 @@ $("#contact_form").submit(function(e)
 		{
 		}
 	});
-    e.preventDefault();	//STOP default action
+	 e.preventDefault();
+	
     clearInput();
 });
 	
-$("#contact_form").submit(); //SUBMIT FORM
+//SUBMIT FORM
 
 function clearInput(){
 $("#contact_form :input").each(function(){
