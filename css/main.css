@@ -92,12 +92,15 @@ body{
   padding: 22px 0;
   text-align: center;
 }
-#burb_logo{
+.burb_logo{
   background:url(../images/logo.png)no-repeat;
-  width:100%;
+  width:100px;
   height: 102px;
   text-indent:-99999999px;
 
+}
+#wrapper{
+  margin-top: 40px;
 }
 #footer_background{
   background: #2f2f2f;
@@ -109,5 +112,5 @@ body{
   text-align: center;
 }
 #contact_form{
-  
+
 }
