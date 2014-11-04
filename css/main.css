@@ -5,16 +5,7 @@ body{
   background-repeat: repeat repeat
 }
 
-.logo {
-  border-top: 4px solid #648880;
-  float: left;
-  font-size: 48px;
-  font-weight: 100;
-  letter-spacing: .5px;
-  line-height: 44px;
-  padding: 40px 0 22px 0;
-  text-transform: uppercase;
-}
+
 /*
   ========================================
   Typography
@@ -56,13 +47,7 @@ body{
   em {
     font-style: italic;
   }
-  a:hover {
-
-    background: #ffea00;
-  }
-  a {
-    color: #648880;
-  }
+ 
   .hero{
    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
    font-size: 21px;
@@ -92,13 +77,7 @@ body{
   padding: 22px 0;
   text-align: center;
 }
-.burb_logo{
-  background:url(../images/logo.png)no-repeat;
-  width:100px;
-  height: 102px;
-  text-indent:-99999999px;
 
-}
 #wrapper{
   margin-top: 40px;
 }
