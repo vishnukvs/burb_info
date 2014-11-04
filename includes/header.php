@@ -24,16 +24,16 @@
 							<span class="icon-bar"></span>
 						</button>
 					</div>
-					<a class="navbar-brand" href="index.html">
+					<a class="navbar-brand" href="index.php">
 						<img src="images/logo.png"class="img-responsive" width="143px" height="104px">
 					</a>
 				</a>
 				<div class="collapse navbar-collapse" id="main-nav">
 					<ul class="nav navbar-right navbar-nav">
 						<li class="active"><a href="#">HOME</a></li>
-						<li><a href="#">ABOUT US</a></li>
+						<li><a href="aboutus.php">ABOUT US</a></li>
 						<li><a href="#">SERVICES</a></li>
-						<li><a href="#">CONTACT US</a></li>
+						<li><a href="contact.php">CONTACT US</a></li>
 					</ul>
 				</div>
 			</nav>
