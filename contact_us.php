@@ -17,7 +17,7 @@ $email_message = "Form details below.\n\n";
      
     $email_message .= "Name: ".clean_string($name)."\n";
     $email_message .= "Email: ".clean_string($email)."\n";
-    $email_message .= "Comments: ".clean_string($messgae)."\n";
+    $email_message .= "Comments: ".clean_string($message)."\n";
      
      
 // create email headers
