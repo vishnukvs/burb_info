@@ -10,19 +10,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="images/1.png" alt="...">
+      <img src="images/b2.jpg" alt="...">
       <div class="carousel-caption">
       Lease Manager
       </div>
     </div>
     <div class="item">
-      <img src="images/2.jpg" alt="...">
+      <img src="images/b2.jpg" alt="...">
       <div class="carousel-caption">
        Lease Manager
       </div>
     </div>
      <div class="item">
-      <img src="images/333.png" alt="...">
+      <img src="images/b1.jpg" alt="...">
       <div class="carousel-caption">
        Lease Manager
       </div>
@@ -40,4 +40,5 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-</div>
+
+<div class="row"></div>

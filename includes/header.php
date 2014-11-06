@@ -24,7 +24,7 @@
 							<span class="icon-bar"></span>
 						</button>
 					</div>
-					<a class="navbar-brand" href="index.php">
+					<a class="navbar-brand" href="index.php" id="logo">
 						<img src="images/logo.png"class="img-responsive" width="143px" height="104px">
 					</a>
 				</a>

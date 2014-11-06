@@ -79,7 +79,7 @@ body{
 }
 
 #wrapper{
-  margin-top: 40px;
+  margin-top: 65px;
 }
 #footer_background{
   background: #2f2f2f;
@@ -92,4 +92,10 @@ body{
 }
 #contact_form{
 
+}
+.carousel{
+  
+}
+#logo{
+  margin-top: -15px;
 }
