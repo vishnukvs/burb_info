@@ -6,7 +6,8 @@ $message = trim($_POST['message']);
 var_dump($name);
 
 $email_to = "vishnu@burbtech.com.au,vishnu.kvs@gmail.com";  // This email address will recieve the data of form.html
-$email_subject = "email for Burbtech"; 
+$email_from = "admin@burbtech.com.au";
+$email_subject = "email form Burbtech"; 
 
 $email_message = "Form details below.\n\n";
      
