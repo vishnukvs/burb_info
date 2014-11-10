@@ -1,5 +1,4 @@
 <?php 	include('includes/header.php');
-require_once('dbconn.php');
 ?>
 <!--/contact form-->
 <div class="center">
