@@ -90,9 +90,7 @@ body{
 .center{
   text-align: center;
 }
-#contact_form{
 
-}
 .carousel{
   
 }
@@ -101,4 +99,28 @@ body{
 }
 #carousel-example-generic{
   margin-top: -50px;
+}
+#slider{
+  margin-left:30px;
+  margin-bottom: 10px;
+}
+@media(max-width: 767px){
+#logo{
+  margin-top: -85px;
+}
+#carousel-example-generic{
+  margin-top: -30px;
+}
+#slider{
+  margin-left:20px;
+  margin-bottom: 10px;
+}
+#wrapper{
+  margin-top: 35px;
+}
+ article{
+   background-color :#fff;
+   margin-bottom: 36px;
+   margin-top: -50px;
+ }
 }

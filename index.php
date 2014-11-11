@@ -3,9 +3,9 @@ include('includes/header.php');
 
 ?>
 <div id="wrapper">
-	
-	<div class="container col-xs-12 col-md-9">
-		
+
+<div class="container col-xs-12 col-md-9"id="slider">
+
 		<?php include ('slider.php'); ?>
 	</div>
 </div>

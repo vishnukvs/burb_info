@@ -17,16 +17,14 @@
     <div class="item">
       <img src="images/b2.jpg" alt="...">
       <div class="carousel-caption">
-        
+
       </div>
     </div>
     <div class="item">
       <img src="images/b1.jpg" alt="...">
       <div class="carousel-caption">
-        
-      </div>
+       </div>
     </div>
-    
   </div>
 
   <!-- Controls -->
