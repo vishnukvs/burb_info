@@ -47,7 +47,7 @@ body{
   em {
     font-style: italic;
   }
- 
+  
   .hero{
    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
    font-size: 21px;
@@ -91,11 +91,10 @@ body{
   text-align: center;
 }
 
-.carousel{
-  
-}
+
 #logo{
-  margin-top: -15px;
+  margin-top: -26px;
+  margin-left: 8px;
 }
 #carousel-example-generic{
   margin-top: -50px;
@@ -105,20 +104,20 @@ body{
   margin-bottom: 10px;
 }
 @media(max-width: 767px){
-#logo{
-  margin-top: -85px;
-}
-#carousel-example-generic{
-  margin-top: -20px;
-}
-#slider{
-  margin-left:-4px;
-  margin-bottom: 10px;
-}
-#wrapper{
-  margin-top: 35px;
-}
- article{
+  #logo{
+    margin-top: -85px;
+  }
+  #carousel-example-generic{
+    margin-top: -20px;
+  }
+  #slider{
+    margin-left:-4px;
+    margin-bottom: 10px;
+  }
+  #wrapper{
+    margin-top: 35px;
+  }
+  article{
    background-color :#fff;
    margin-bottom: 36px;
    margin-top: -50px;
