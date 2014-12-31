@@ -1,6 +1,7 @@
 <?php 	include('includes/header.php');
 ?>
 <!--/contact form-->
+<div id="wrapper">
 <div class="center">
 	<h4>Thanks for Visting us</h4>
 	<div id="message"></div>
@@ -28,11 +29,12 @@
 		</div>
 		<div class="form-group">
 			<div class="col-xs-10 col-sm-offset-2 col-sm-10">
-				<button type="submit" class="btn btn-primary">Submit</button>
+				<button type="submit" class="btn btn-success">Submit</button>
 			</div>
 		</div>
 	</div>
 </form>
+</div>
 <!--/end of contact form-->
 <?php include('includes/footer.php'); ?>
 </body>

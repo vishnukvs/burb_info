@@ -19,8 +19,9 @@
 							<p>We have a creative side too that help us provide new ideas to our clients if your website is in need of an upgrade or you are looking to get one build for your business; we can help you. Our team of designers and web developers are equipped with the latest technologies and tools. We can build simple information site to a dynamic graphical site that attract more business.</p>
 						</section>
 					</div>
+					</div>
 				</article>
-			</div>
+			
 			<?php include('includes/footer.php'); ?>
 		</body>
 		</html>

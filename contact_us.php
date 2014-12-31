@@ -6,7 +6,7 @@ $name = trim($_POST['name']);
 $email = trim($_POST['email']);
 $message = trim($_POST['message']);
 if(!$name && !$email){
-$email_to = "vishnu@burbtech.com.au,vishnu.kvs@gmail.com";  // This email address will recieve the data of form.html
+$email_to = "vishnu@burbtech.com.au";  // This email address will recieve the data of form.html
 $email_from = "admin@burbtech.com.au";
 $email_subject = "email form Burbtech"; 
 $email_message = "Form details below.\n\n";

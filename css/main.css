@@ -79,7 +79,8 @@ body{
 }
 
 #wrapper{
-  margin-top: 65px;
+ 
+  padding-top:86px;
 }
 #footer_background{
   background: #2f2f2f;
@@ -122,4 +123,7 @@ body{
    margin-bottom: 36px;
    margin-top: -50px;
  }
+}
+#slider{
+  padding-top:10px;
 }
